@@ -1,6 +1,8 @@
 # GuillotineView
 切割式、断头台式view弹出效果
 
+![image](https://github.com/yoyoyaobin/GuillotineView/blob/master/app/src/main/assets/sample.gif)
+
 ## 1使用方式
 
 ### 1.1在project的gradle添加
