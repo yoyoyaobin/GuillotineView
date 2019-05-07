@@ -53,5 +53,5 @@ GuillotineView.GuillotineBuilder(this)
 
 
 ## LICENSE
-详见(LICENSE)(https://github.com/yoyoyaobin/GuillotineView/blob/master/LICENSE)
+详见[LICENSE](https://github.com/yoyoyaobin/GuillotineView/blob/master/LICENSE)
 
