@@ -52,5 +52,6 @@ GuillotineView.GuillotineBuilder(this)
 2.触发按钮在左边，则设置setIsLeftBtn，反之则设置setIsRightBtn
 
 
-
+## LICENSE
+详见(LICENSE)(https://github.com/yoyoyaobin/GuillotineView/blob/master/LICENSE)
 
